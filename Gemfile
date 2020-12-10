@@ -13,6 +13,8 @@ gem 'simple_form', '~> 5.0', '>= 5.0.3'
 gem 'devise', '~> 4.7', '>= 4.7.3'
 
 gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
+
+gem 'paperclip', '~> 6.1'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
