@@ -10,6 +10,11 @@ gem 'rails', '~> 5.2.4', '>= 5.2.4.4'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 
+gem 'mail_form'
+
+gem 'htmlbeautifier'
+
+
 gem 'simple_form', '~> 5.0', '>= 5.0.3'
 
 gem 'devise', '~> 4.7', '>= 4.7.3'

@@ -1,5 +1,9 @@
 {
-  "name": "BookReview",
-  "private": true,
-  "dependencies": {}
+    "name": "BookReview",
+    "private": true,
+    "dependencies": {},
+
+    "files.associations": {
+        "*.erb": "erb"
+    }
 }
